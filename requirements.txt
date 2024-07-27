@@ -2,6 +2,6 @@ tensorflow==2.15.0
 tensorboard
 pandas
 numpy
-scikit-learn
+scikit-learn==1.2.2
 ipykernel
 streamlit
